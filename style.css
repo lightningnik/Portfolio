@@ -1,0 +1,45 @@
+.Contacts
+{
+    margin-top: 600px;
+    margin-left: 512px;
+    border:double;
+    padding: 8px;
+    width: 256px;
+    height: 64px;
+    text-align: center;
+    border-color: black;
+}
+
+.Menu
+{
+    width: 156px;
+    height: 200px;
+    line-height: 1;
+    border: solid;
+}
+
+div
+{
+    border-radius: 16px;
+}
+
+p
+{
+    line-height: 0;
+}
+
+img
+{
+    width: 32px;
+    height: 32px;
+}
+
+body
+{
+    background-color: ghostwhite;
+}
+
+br
+{
+    line-height: 0;
+}
